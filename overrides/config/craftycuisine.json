@@ -1,0 +1,25 @@
+{
+  "defaultFastFoods": [
+    "minecraft:cookie",
+    "craftycuisine:sugar_cookie",
+    "craftycuisine:frosted_sugar_cookie",
+    "craftycuisine:pumpkin_cookie",
+    "craftycuisine:frosted_pumpkin_cookie",
+    "craftycuisine:bacon",
+    "craftycuisine:cooked_bacon",
+    "craftycuisine:cooked_brown_mushroom",
+    "craftycuisine:cooked_red_mushroom"
+  ],
+  "fastFood": [
+    "minecraft:cookie",
+    "craftycuisine:sugar_cookie",
+    "craftycuisine:frosted_sugar_cookie",
+    "craftycuisine:pumpkin_cookie",
+    "craftycuisine:frosted_pumpkin_cookie",
+    "craftycuisine:bacon",
+    "craftycuisine:cooked_bacon",
+    "craftycuisine:cooked_brown_mushroom",
+    "craftycuisine:cooked_red_mushroom"
+  ],
+  "fishSoupTrade": true
+}

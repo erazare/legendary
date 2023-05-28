@@ -2,6 +2,16 @@
   "favorites": [],
   "lookup_history": [
     {
+      "item": "minecraft:bread",
+      "amount": 6,
+      "type": "emi:item"
+    },
+    {
+      "item": "backpacked:backpack",
+      "amount": 1,
+      "type": "emi:item"
+    },
+    {
       "item": "forgero:dark_oak-sword",
       "amount": 1,
       "nbt": "{Damage:0}",

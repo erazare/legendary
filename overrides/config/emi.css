@@ -25,6 +25,9 @@
 	 * Whether normal search queries should include the stack's tags.
 	 */
 	search-tags-by-default: false;
+
+	/** unparsed */
+	help-level: normal;
 }
 
 #ui {
@@ -268,6 +271,12 @@
 	 * GUI scale.
 	 */
 	recipe-screenshot-scale: 0;
+
+	/** unparsed */
+	effect-location: top;
+
+	/** unparsed */
+	recipe-book-action: toggle-craftables;
 }
 
 #binds {
@@ -374,6 +383,18 @@
 	 * Cheat in a stack of an item into the cursor.
 	 */
 	cheat-stack-to-cursor: "key.keyboard.unknown";
+
+	/** unparsed */
+	hide-stack-by-id: "ctrl shift key.mouse.left";
+
+	/** unparsed */
+	default-stack: "ctrl key.mouse.left";
+
+	/** unparsed */
+	delete-cursor-stack: "key.mouse.left";
+
+	/** unparsed */
+	hide-stack: "ctrl key.mouse.left";
 }
 
 #dev {
@@ -408,4 +429,7 @@
 	 * Whether to display exclusion areas
 	 */
 	highlight-exclusion-areas: false;
+
+	/** unparsed */
+	edit-mode: false;
 }

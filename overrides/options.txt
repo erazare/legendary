@@ -42,8 +42,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","fabric","file/FreshAnimations_v1.8.1.zip","file/Misa_1.19y.zip","file/cozy-critters-1-19-4.zip","file/Improved Hostiles.zip","file/Fantasy_Ores_v7.1[classic].zip","resources/mr-chibismmo-pack-v1-3.zip","resources/Owl\u0027s Data Pack Resources.zip","resources/Survival_Expansion_Textures.zip","resources/voa-resource1-3.zip","resources/essence-rpg-resources-v1-17.zip","file/Gothic RPG Font.zip","file/DiscreetGUI V1.4.zip","armorchroma:alternative-icons","$polymer-resources","continuity:default","continuity:glass_pane_culling_fix"]
-incompatibleResourcePacks:["resources/Survival_Expansion_Textures.zip","file/Gothic RPG Font.zip","file/DiscreetGUI V1.4.zip","armorchroma:alternative-icons","continuity:default","continuity:glass_pane_culling_fix"]
+resourcePacks:["vanilla","fabric","file/FreshAnimations_v1.8.1.zip","file/Misa_1.19y.zip","file/cozy-critters-1-19-4.zip","file/Improved Hostiles.zip","file/Fantasy_Ores_v7.1[classic].zip","resources/mr-chibismmo-pack-v1-3.zip","resources/Owl\u0027s Data Pack Resources.zip","resources/Survival_Expansion_Textures.zip","resources/voa-resource1-3.zip","resources/essence-rpg-resources-v1-17.zip","file/Gothic RPG Font.zip","file/DiscreetGUI V1.4.zip","$polymer-resources","continuity:default","continuity:glass_pane_culling_fix"]
+incompatibleResourcePacks:["resources/Survival_Expansion_Textures.zip","file/Gothic RPG Font.zip","file/DiscreetGUI V1.4.zip","continuity:default","continuity:glass_pane_culling_fix"]
 lastServer:
 lang:en_us
 soundDevice:""
@@ -180,7 +180,7 @@ key_key.puffish_skills.open:key.keyboard.keypad.6
 key_key.uselessreptile.flyDownKey:key.keyboard.unknown
 key_key.uselessreptile.primaryAttackKey:key.keyboard.left.bracket
 key_key.uselessreptile.secondaryAttackKey:key.keyboard.right.bracket
-key_zoomify.key.zoom:key.keyboard.c
+key_zoomify.key.zoom:key.keyboard.z
 key_zoomify.key.zoom.secondary:key.keyboard.f6
 key_key.backpack:key.keyboard.b
 key_iris.keybind.reload:key.keyboard.backspace

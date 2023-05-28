@@ -74,7 +74,22 @@ mode = "fancy"
 				llama = true
 				cat = true
 				iron_golem = true
+				painting = true
+				giant = true
+				minecart = true
+				zombified_piglin = true
+				potion = true
 
 			[light_sources.settings.entities.direbats]
 				direbat = true
+
+			[light_sources.settings.entities.mutantmonsters]
+				mutant_creeper = true
+				mutant_skeleton = true
+
+			[light_sources.settings.entities.lootr]
+				lootr_minecart = true
+
+			[light_sources.settings.entities.sleep_tight]
+				bed_entity = true
 

@@ -1,6 +1,6 @@
 {
 	// Enables Fog that forms when it rains
-	"Client_PrecipitationFog": false,
+	"Client_PrecipitationFog": true,
 	// Enables new particle-based weather effects (This feature hasn't been implemented yet!)
 	"Client_ParticlePrecipitation": false,
 	// Makes particles move with the wind if enabled
