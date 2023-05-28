@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Legendary",
-  "version": "v.006",
+  "version": "v.a007",
   "author": "Keef_DGAF",
   "files": [
     {
@@ -370,6 +370,11 @@
       "required": true
     },
     {
+      "projectID": 632624,
+      "fileID": 4524622,
+      "required": true
+    },
+    {
       "projectID": 542478,
       "fileID": 4515925,
       "required": true
@@ -412,6 +417,11 @@
     {
       "projectID": 348521,
       "fileID": 4440460,
+      "required": true
+    },
+    {
+      "projectID": 632622,
+      "fileID": 4474031,
       "required": true
     },
     {
@@ -486,7 +496,7 @@
     },
     {
       "projectID": 455585,
-      "fileID": 4450304,
+      "fileID": 4465355,
       "required": true
     },
     {
@@ -502,6 +512,11 @@
     {
       "projectID": 521427,
       "fileID": 4457065,
+      "required": true
+    },
+    {
+      "projectID": 623723,
+      "fileID": 4467392,
       "required": true
     },
     {
@@ -611,7 +626,7 @@
     },
     {
       "projectID": 521673,
-      "fileID": 4450307,
+      "fileID": 4465360,
       "required": true
     },
     {

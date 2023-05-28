@@ -46,19 +46,6 @@
     "uuid": "bf673886-c31c-4c8b-a725-de18257b6f29"
   },
   "tabs": [],
-  "windows": [
-    {
-      "x": 0.0,
-      "y": 0.9444444444444444,
-      "width": 0.2916666666666667,
-      "height": 0.21666666666666667,
-      "visibility": "vanilla",
-      "tabuuid": "bf673886-c31c-4c8b-a725-de18257b6f29",
-      "selected": true,
-      "renderRight": false,
-      "renderTopFirst": false,
-      "minimalist": false
-    }
-  ],
+  "windows": [],
   "config_version": 1
 }
