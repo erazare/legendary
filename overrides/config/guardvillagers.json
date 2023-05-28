@@ -1,5 +1,5 @@
 {
-  "useSteveModel": false,
+  "useSteveModel": true,
   "GuardsRunFromPolarBears": true,
   "GuardFormation": true,
   "ClericHealing": true,
@@ -12,9 +12,9 @@
   "giveGuardStuffHOTV": true,
   "setGuardPatrolHotv": true,
   "GuardAlwaysShield": true,
-  "FriendlyFire": false,
+  "FriendlyFire": true,
   "guardArrowsHurtVillagers": false,
-  "RaidAnimals": false,
+  "RaidAnimals": true,
   "WitchesVillager": true,
   "BlackSmithHealing": true,
   "GuardVillagerHelpRange": 50.0,

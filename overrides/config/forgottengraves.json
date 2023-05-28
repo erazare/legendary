@@ -1,0 +1,24 @@
+{
+  "main": {
+    "graves": true,
+    "graveCoordinates": true,
+    "retrievalType": "BOTH",
+    "dropType": "INVENTORY",
+    "expStorageType": "ALL",
+    "maxCustomXPLevel": 30
+  },
+  "floating": {
+    "floatInAir": false,
+    "floatInWater": false,
+    "floatInLava": true
+  },
+  "itemDecay": {
+    "decayModifier": 0,
+    "decayBreaksItems": false
+  },
+  "server": {
+    "graveRobbing": false,
+    "OPOverrideLevel": 4,
+    "clientOptions": []
+  }
+}

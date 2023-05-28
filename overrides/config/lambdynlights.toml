@@ -55,4 +55,26 @@ mode = "fancy"
 				pufferfish = true
 				lightning_bolt = true
 				skeleton_horse = true
+				area_effect_cloud = true
+				armor_stand = true
+				husk = true
+				donkey = true
+				dolphin = true
+				villager = true
+				rabbit = true
+				item_frame = true
+				polar_bear = true
+				fox = true
+				bee = true
+				panda = true
+				experience_orb = true
+				goat = true
+				ocelot = true
+				arrow = true
+				llama = true
+				cat = true
+				iron_golem = true
+
+			[light_sources.settings.entities.direbats]
+				direbat = true
 

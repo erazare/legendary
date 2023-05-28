@@ -1,0 +1,98 @@
+{
+  "favorites": [],
+  "lookup_history": [
+    {
+      "item": "forgero:dark_oak-sword",
+      "amount": 1,
+      "nbt": "{Damage:0}",
+      "type": "emi:item"
+    },
+    {
+      "item": "forgero:copper-sword",
+      "amount": 1,
+      "nbt": "{Damage:152}",
+      "type": "emi:item"
+    },
+    {
+      "item": "minecraft:copper_ingot",
+      "amount": 1,
+      "type": "emi:item"
+    },
+    {
+      "item": "forgero:birch-sword",
+      "amount": 1,
+      "nbt": "{Damage:0}",
+      "type": "emi:item"
+    },
+    {
+      "item": "minecraft:iron_sword",
+      "amount": 1,
+      "nbt": "{Damage:0}",
+      "type": "emi:item"
+    },
+    {
+      "item": "minecraft:stone_sword",
+      "amount": 1,
+      "nbt": "{Damage:0}",
+      "type": "emi:item"
+    },
+    {
+      "item": "minecraft:wooden_sword",
+      "amount": 1,
+      "nbt": "{Damage:0}",
+      "type": "emi:item"
+    },
+    {
+      "item": "forgero:acacia-sword",
+      "amount": 1,
+      "nbt": "{Damage:0}",
+      "type": "emi:item"
+    },
+    {
+      "item": "minecraft:diamond_sword",
+      "amount": 1,
+      "nbt": "{Damage:0}",
+      "type": "emi:item"
+    },
+    {
+      "item": "forgero:copper-sword_blade",
+      "amount": 1,
+      "type": "emi:item"
+    },
+    {
+      "tag": "forgero:copper-sword_blade",
+      "amount": 1,
+      "type": "emi:item_tag"
+    },
+    {
+      "item": "forgero:sword_blade-schematic",
+      "amount": 1,
+      "type": "emi:item"
+    },
+    {
+      "item": "forgero:copper_repair_kit",
+      "amount": 1,
+      "type": "emi:item"
+    },
+    {
+      "item": "minecraft:map",
+      "amount": 1,
+      "type": "emi:item"
+    }
+  ],
+  "craft_history": [
+    "minecraft:furnace",
+    "regions_unexplored:pine_door",
+    "regions_unexplored:pine_planks",
+    "minecraft:crafting_table",
+    "minecraft:stone_pickaxe",
+    "minecraft:wooden_axe",
+    "minecraft:wooden_pickaxe",
+    "regions_unexplored:larch_planks",
+    "minecraft:stick"
+  ],
+  "recipe_defaults": {
+    "added": [],
+    "disabled": []
+  }
+}
