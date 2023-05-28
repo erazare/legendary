@@ -42,8 +42,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","fabric","file/FreshAnimations_v1.8.1.zip","file/Misa_1.19y.zip","file/cozy-critters-1-19-4.zip","file/Improved Hostiles.zip","file/Fantasy_Ores_v7.1[classic].zip","resources/mr-chibismmo-pack-v1-3.zip","resources/Owl\u0027s Data Pack Resources.zip","resources/Survival_Expansion_Textures.zip","resources/voa-resource1-3.zip","resources/essence-rpg-resources-v1-17.zip","file/Gothic RPG Font.zip","file/DiscreetGUI V1.4.zip","$polymer-resources","continuity:default","continuity:glass_pane_culling_fix"]
-incompatibleResourcePacks:["resources/Survival_Expansion_Textures.zip","file/Gothic RPG Font.zip","file/DiscreetGUI V1.4.zip","continuity:default","continuity:glass_pane_culling_fix"]
+resourcePacks:["vanilla","fabric","file/FreshAnimations_v1.8.1.zip","file/Misa_1.19y.zip","file/cozy-critters-1-19-4.zip","file/Improved Hostiles.zip","file/Fantasy_Ores_v7.1[classic].zip","resources/mr-chibismmo-pack-v1-3.zip","resources/Owl\u0027s Data Pack Resources.zip","resources/Survival_Expansion_Textures.zip","resources/voa-resource1-3.zip","resources/essence-rpg-resources-v1-17.zip","file/Gothic RPG Font.zip","file/DiscreetGUI V1.4.zip","$polymer-resources","continuity:default","continuity:glass_pane_culling_fix","resources/swordsandstrongholds-v2-0-resourcepack-e490.zip","soulsweapons:2d_weapons"]
+incompatibleResourcePacks:["resources/Survival_Expansion_Textures.zip","file/Gothic RPG Font.zip","file/DiscreetGUI V1.4.zip","continuity:default","continuity:glass_pane_culling_fix","resources/swordsandstrongholds-v2-0-resourcepack-e490.zip"]
 lastServer:
 lang:en_us
 soundDevice:""
@@ -72,10 +72,10 @@ tutorialStep:none
 mouseWheelSensitivity:1.0
 rawMouseInput:true
 glDebugVerbosity:1
-skipMultiplayerWarning:false
+skipMultiplayerWarning:true
 skipRealms32bitWarning:false
 hideMatchedNames:true
-joinedFirstServer:false
+joinedFirstServer:true
 hideBundleTutorial:false
 syncChunkWrites:true
 showAutosaveIndicator:true
@@ -177,6 +177,11 @@ key_key.origins.primary_active:key.keyboard.g
 key_key.origins.secondary_active:key.keyboard.unknown
 key_key.origins.view_origin:key.keyboard.o
 key_key.puffish_skills.open:key.keyboard.keypad.6
+key_key.soulsweapons.return_freyr_sword:key.keyboard.r
+key_key.soulsweapons.freyr_sword_stationary:key.keyboard.z
+key_key.soulsweapons.collect_summons_soul_reaper:key.keyboard.v
+key_key.soulsweapons.switch_weapon:key.keyboard.b
+key_key.soulsweapons.detonate_draupnir_spears:key.keyboard.left.alt
 key_key.uselessreptile.flyDownKey:key.keyboard.unknown
 key_key.uselessreptile.primaryAttackKey:key.keyboard.left.bracket
 key_key.uselessreptile.secondaryAttackKey:key.keyboard.right.bracket

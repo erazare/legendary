@@ -1,10 +1,10 @@
-[10:09:58] [Render thread/INFO] [JMLogger] JourneyMap log initialized.
-[10:09:58] [Render thread/INFO] [JourneymapClient] initialize ENTER
-[10:09:58] [Render thread/INFO] [ClientAPI] [ClientAPI] built with JourneyMap API 1.9-SNAPSHOT
-[10:09:58] [Render thread/INFO] [PluginHelper] Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
-[10:09:58] [Render thread/INFO] [PluginHelper] Initialized IClientPlugin: sh.talonfox.enhancedweather.externmods.journeymap.EnhancedWeatherJMPlugin
-[10:09:58] [Render thread/INFO] [ThemeLoader] Preloaded theme textures: 73
-[10:09:58] [Render thread/INFO] [?] Version: JourneyMap 1.19.4-5.9.7, built with fabric 0.75.3+1.19.4
+[14:10:58] [Render thread/INFO] [JMLogger] JourneyMap log initialized.
+[14:10:58] [Render thread/INFO] [JourneymapClient] initialize ENTER
+[14:10:58] [Render thread/INFO] [ClientAPI] [ClientAPI] built with JourneyMap API 1.9-SNAPSHOT
+[14:10:58] [Render thread/INFO] [PluginHelper] Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
+[14:10:58] [Render thread/INFO] [PluginHelper] Initialized IClientPlugin: sh.talonfox.enhancedweather.externmods.journeymap.EnhancedWeatherJMPlugin
+[14:10:58] [Render thread/INFO] [ThemeLoader] Preloaded theme textures: 73
+[14:10:58] [Render thread/INFO] [?] Version: JourneyMap 1.19.4-5.9.7, built with fabric 0.75.3+1.19.4
 fabric: 0.14.17
 Environment: os.name, os.arch, java.version, user.country, user.language=null, game language=en_us, locale=en_us
 Features: 
@@ -22,21 +22,22 @@ FullMapProperties{state=Valid, file=journeymap.fullmap.config, configVersion=5.9
 WaypointProperties{state=Valid, file=journeymap.waypoint.config, configVersion=5.9.7, autoRemoveDeathpointDistance=2, dateFormat=MM-dd-yyyy, autoRemoveDeathpoints=false, fullscreenDoubleClickToCreate=true, managerDimensionFocus=false, minDistance=4, boldLabel=false, textureSmall=true, showDeathpointlabel=true, beaconEnabled=true, createDeathpoints=true, showName=true, disableStrikeThrough=false, maxDistance=0, autoHideLabel=true, autoRemoveTempWaypoints=2, teleportCommand=/tp {name} {x} {y} {z}, showStaticBeam=true, shaderBeacon=false, timeFormat=HH:mm:ss, showDeviationLabel=false, showDistance=true, showRotatingBeam=true, fontScale=2.0, showTexture=true, managerEnabled=true}
 WebMapProperties{state=Valid, file=journeymap.webmap.config, configVersion=5.9.7, port=8080, enabled=false}
 CoreProperties{state=Valid, file=journeymap.core.config, configVersion=5.9.7, verboseColorPalette=false, maxPlayersData=32, mapSurfaceAboveCaves=true, dataCachingEnabled=true, optionsManagerViewed=5.9.7, announceMod=true, colorPassive=#bbbbbb, mapBlendWater=false, renderDistanceSurfaceMax=0, seedId=false, radarVerticalDistance=16, mapBlendGrass=true, recordCacheStats=false, hideSneakingEntities=true, revealShape=jm.minimap.shape_circle, mapBiome=true, alwaysMapSurface=false, colorVillager=#88e188, mapPlants=false, colorPet=#0077ff, radarLateralDistance=64, mapBathymetry=false, mapCrops=true, maxMobsData=32, mapPlantShadows=false, alwaysMapCaves=false, checkUpdates=true, mapBlendFoliage=true, hideSpectators=false, mappingEnabled=true, colorPlayer=#ffffff, tileHighDisplayQuality=true, cacheVillagersData=2200, logLevel=INFO, maxVillagersData=32, mapWaterBiomeColors=false, maxAnimalsData=32, mapTransparency=true, caveBlackAsClear=false, tileRenderType=1, caveIgnoreGlass=true, mapTopography=true, renderDistanceCaveMax=0, mapAntialiasing=true, colorSelf=#0000ff, cachePlayersData=2000, cacheMobsData=3000, cachePlayerData=1000, splashViewed=5.9.7, colorHostile=#ff0000, cacheAnimalsData=3100, themeName=OceanMonument, mapCaveLighting=true, renderDelay=2, glErrorChecking=false, autoMapPoll=2000}
-[10:09:58] [Render thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 1 avg 585.77ms
-[10:09:58] [Render thread/INFO] [JourneymapClient] postInitialize EXIT, elapsed count 1 avg 4.36ms
-[10:10:08] [Render thread/INFO] [ColorManager] Loaded color palette for 898 blockstates in 270ms
-[10:10:08] [Render thread/INFO] [ColorManager] Loaded color palette for 898 blockstates in 28ms
-[10:10:08] [Render thread/INFO] [ColorManager] Loaded color palette for 898 blockstates in 29ms
-[10:10:08] [Render thread/INFO] [ColorManager] Loaded color palette for 898 blockstates in 26ms
-[10:10:08] [Render thread/INFO] [ColorManager] Loaded color palette for 898 blockstates in 29ms
-[10:10:08] [Render thread/INFO] [ColorManager] Loaded color palette for 898 blockstates in 28ms
-[10:10:09] [Render thread/INFO] [ColorManager] Loaded color palette for 898 blockstates in 32ms
-[10:10:09] [Render thread/INFO] [ColorManager] Loaded color palette for 898 blockstates in 27ms
-[10:10:09] [Render thread/INFO] [ColorManager] Loaded color palette for 898 blockstates in 24ms
-[10:10:09] [Render thread/INFO] [ColorManager] Loaded color palette for 898 blockstates in 24ms
-[10:10:09] [Render thread/INFO] [ColorManager] Loaded color palette for 898 blockstates in 20ms
-[10:10:09] [Render thread/INFO] [ColorManager] Loaded color palette for 898 blockstates in 20ms
-[10:11:17] [Render thread/INFO] [ChatLog] JourneyMap: Press [M]
-[10:11:17] [Render thread/INFO] [WaypointStore] Loaded 1 waypoints from C:\Users\3raza\curseforge\minecraft\Instances\merge\journeymap\data\sp\New World (1)\waypoints
-[10:11:17] [Render thread/INFO] [JourneymapClient] Mapping started in C:\Users\3raza\curseforge\minecraft\Instances\merge\journeymap\data\sp\New World (1)\overworld. Memory: 3240MB total, 914MB free 
-[10:12:35] [Render thread/INFO] [JourneymapClient] Mapping halted in C:\Users\3raza\curseforge\minecraft\Instances\merge\journeymap\data\mp\offline\minecraft:overworld
+[14:10:58] [Render thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 1 avg 614.27ms
+[14:10:58] [Render thread/INFO] [JourneymapClient] postInitialize EXIT, elapsed count 1 avg 5.49ms
+[14:11:08] [Render thread/INFO] [ColorManager] Loaded color palette for 898 blockstates in 328ms
+[14:11:08] [Render thread/INFO] [ColorManager] Loaded color palette for 898 blockstates in 32ms
+[14:11:08] [Render thread/INFO] [ColorManager] Loaded color palette for 898 blockstates in 28ms
+[14:11:08] [Render thread/INFO] [ColorManager] Loaded color palette for 898 blockstates in 27ms
+[14:11:08] [Render thread/INFO] [ColorManager] Loaded color palette for 898 blockstates in 24ms
+[14:11:08] [Render thread/INFO] [ColorManager] Loaded color palette for 898 blockstates in 27ms
+[14:11:08] [Render thread/INFO] [ColorManager] Loaded color palette for 898 blockstates in 26ms
+[14:11:08] [Render thread/INFO] [ColorManager] Loaded color palette for 898 blockstates in 25ms
+[14:11:08] [Render thread/INFO] [ColorManager] Loaded color palette for 898 blockstates in 24ms
+[14:11:08] [Render thread/INFO] [ColorManager] Loaded color palette for 898 blockstates in 26ms
+[14:11:09] [Render thread/INFO] [ColorManager] Loaded color palette for 898 blockstates in 20ms
+[14:11:09] [Render thread/INFO] [ColorManager] Loaded color palette for 898 blockstates in 19ms
+[14:12:12] [Render thread/INFO] [JourneymapClient] World UID is set to: 875329e8-8153-4039-9cff-b06a3549a599
+[14:12:14] [Render thread/INFO] [WaypointStore] Loaded 0 waypoints from C:\Users\3raza\curseforge\minecraft\Instances\merge\journeymap\data\mp\Testing_875329e8~8153~4039~9cff~b06a3549a599\waypoints
+[14:12:14] [Render thread/INFO] [JourneymapClient] Mapping started in C:\Users\3raza\curseforge\minecraft\Instances\merge\journeymap\data\mp\Testing_875329e8~8153~4039~9cff~b06a3549a599\overworld. Memory: 2096MB total, 964MB free 
+[14:12:26] [Render thread/INFO] [ChatLog] JourneyMap: Press [M]
+[14:14:48] [Render thread/INFO] [JourneymapClient] Mapping halted in C:\Users\3raza\curseforge\minecraft\Instances\merge\journeymap\data\mp\Testing_875329e8~8153~4039~9cff~b06a3549a599\minecraft:overworld

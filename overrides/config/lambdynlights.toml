@@ -86,6 +86,8 @@ mode = "fancy"
 			[light_sources.settings.entities.mutantmonsters]
 				mutant_creeper = true
 				mutant_skeleton = true
+				mutant_enderman = true
+				mutant_zombie = true
 
 			[light_sources.settings.entities.lootr]
 				lootr_minecart = true

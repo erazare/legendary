@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Legendary",
-  "version": "a005",
+  "version": "v.006",
   "author": "Keef_DGAF",
   "files": [
     {
@@ -192,11 +192,6 @@
     {
       "projectID": 459496,
       "fileID": 4437430,
-      "required": true
-    },
-    {
-      "projectID": 819030,
-      "fileID": 4429848,
       "required": true
     },
     {
