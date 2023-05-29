@@ -92,5 +92,6 @@
   "minecraft:energy_storage": null,
   "minecraft:progress": null,
   "polymer:blockstate": null,
-  "polymer:entities": null
+  "polymer:entities": null,
+  "waystones:waystone": null
 }

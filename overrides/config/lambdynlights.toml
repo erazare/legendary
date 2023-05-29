@@ -79,6 +79,8 @@ mode = "fancy"
 				minecart = true
 				zombified_piglin = true
 				potion = true
+				pillager = true
+				vindicator = true
 
 			[light_sources.settings.entities.direbats]
 				direbat = true
@@ -94,4 +96,10 @@ mode = "fancy"
 
 			[light_sources.settings.entities.sleep_tight]
 				bed_entity = true
+
+			[light_sources.settings.entities.uselessreptile]
+				moleclaw = true
+
+			[light_sources.settings.entities.regions_unexplored]
+				boat = true
 

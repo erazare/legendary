@@ -91,13 +91,20 @@
     }
   ],
   "craft_history": [
+    "regions_unexplored:blackwood_boat",
+    "regions_unexplored:blackwood_planks",
+    "minecraft:crafting_table",
+    "minecraft:oak_planks",
+    "minecraft:iron_pickaxe",
+    "minecraft:torch",
+    "mythicmetals:pickaxe/copper_pickaxe",
     "minecraft:furnace",
+    "minecraft:stone_pickaxe",
+    "minecraft:oak_door",
+    "minecraft:wooden_pickaxe",
     "regions_unexplored:pine_door",
     "regions_unexplored:pine_planks",
-    "minecraft:crafting_table",
-    "minecraft:stone_pickaxe",
     "minecraft:wooden_axe",
-    "minecraft:wooden_pickaxe",
     "regions_unexplored:larch_planks",
     "minecraft:stick"
   ],
