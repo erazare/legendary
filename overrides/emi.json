@@ -2,13 +2,13 @@
   "favorites": [],
   "lookup_history": [
     {
-      "item": "minecraft:bread",
-      "amount": 6,
+      "item": "packedup:basicbackpack",
+      "amount": 1,
       "type": "emi:item"
     },
     {
-      "item": "backpacked:backpack",
-      "amount": 1,
+      "item": "minecraft:bread",
+      "amount": 6,
       "type": "emi:item"
     },
     {

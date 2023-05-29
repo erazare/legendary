@@ -1,16 +1,4 @@
 
-#Config for Regions Unexplored!
-[region_weights]
-	#Sets Terrablender region weight for the primary region.
-	#Range: 0 ~ 2147483646
-	primary_region_weight = 11
-	#Sets Terrablender region weight for Nether region.
-	#Range: 0 ~ 2147483646
-	nether_region_weight = 14
-	#Sets Terrablender region weight for the secondary region.
-	#Range: 0 ~ 2147483646
-	secondary_region_weight = 8
-
 [biome_toggles]
 	toggle_fungal_fen = true
 	toggle_grassy_beach = true
@@ -101,4 +89,18 @@
 	#Sets Eucalyptus colour transition size. Bigger number = bigger distance between colours.
 	#Range: 0.0 ~ 200.0
 	eucalyptus_transition_size = 25.0
+
+#Config for Regions Unexplored!
+[region_configs]
+	#Sets Terrablender region weight for the primary region.
+	#Range: 0 ~ 2147483646
+	primary_region_weight = 11
+	#Enable this before changing the other region config files. If disabled, RU will use builtin biome placement.
+	toggle_custom_regions = false
+	#Sets Terrablender region weight for Nether region.
+	#Range: 0 ~ 2147483646
+	nether_region_weight = 14
+	#Sets Terrablender region weight for the secondary region.
+	#Range: 0 ~ 2147483646
+	secondary_region_weight = 8
 

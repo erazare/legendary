@@ -5,7 +5,7 @@
 	// min: 1, max: 64
 	"recursiveOpeningMaxBlocksDistance": 10,
 	// When enables, the mod works with double doors.
-	"enableDoors": true,
+	"enableDoors": false,
 	// When enables, the mod works with double fence gates.
 	"enableFenceGates": true,
 	// When enables, the mod works with double trapdoors.
