@@ -81,6 +81,9 @@ mode = "fancy"
 				potion = true
 				pillager = true
 				vindicator = true
+				boat = true
+				allay = true
+				cave_spider = true
 
 			[light_sources.settings.entities.direbats]
 				direbat = true
@@ -102,4 +105,10 @@ mode = "fancy"
 
 			[light_sources.settings.entities.regions_unexplored]
 				boat = true
+
+			[light_sources.settings.entities.soulsweapons]
+				big_chungus = true
+
+			[light_sources.settings.entities.guardvillagers]
+				guard = true
 

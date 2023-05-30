@@ -42,8 +42,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","fabric","file/FreshAnimations_v1.8.1.zip","file/Misa_1.19y.zip","file/cozy-critters-1-19-4.zip","file/Improved Hostiles.zip","file/Fantasy_Ores_v7.1[classic].zip","resources/mr-chibismmo-pack-v1-3.zip","resources/Owl\u0027s Data Pack Resources.zip","resources/Survival_Expansion_Textures.zip","resources/voa-resource1-3.zip","resources/essence-rpg-resources-v1-17.zip","file/Gothic RPG Font.zip","file/DiscreetGUI V1.4.zip","continuity:default","continuity:glass_pane_culling_fix","resources/swordsandstrongholds-v2-0-resourcepack-e490.zip","soulsweapons:2d_weapons"]
-incompatibleResourcePacks:["resources/Survival_Expansion_Textures.zip","file/Gothic RPG Font.zip","file/DiscreetGUI V1.4.zip","continuity:default","continuity:glass_pane_culling_fix","resources/swordsandstrongholds-v2-0-resourcepack-e490.zip"]
+resourcePacks:["vanilla","fabric","file/FreshAnimations_v1.8.1.zip","file/Misa_1.19y.zip","file/cozy-critters-1-19-4.zip","file/Improved Hostiles.zip","file/Fantasy_Ores_v7.1[classic].zip","resources/mr-chibismmo-pack-v1-3.zip","resources/Owl\u0027s Data Pack Resources.zip","resources/Survival_Expansion_Textures.zip","resources/voa-resource1-3.zip","resources/essence-rpg-resources-v1-17.zip","resources/Ethrium Resources.zip","resources/swordsandstrongholds-v2-0-resourcepack-e490.zip","file/Gothic RPG Font.zip","file/DiscreetGUI V1.4.zip","continuity:default","continuity:glass_pane_culling_fix","soulsweapons:2d_weapons"]
+incompatibleResourcePacks:["resources/Survival_Expansion_Textures.zip","resources/swordsandstrongholds-v2-0-resourcepack-e490.zip","file/Gothic RPG Font.zip","file/DiscreetGUI V1.4.zip","continuity:default","continuity:glass_pane_culling_fix"]
 lastServer:
 lang:en_us
 soundDevice:""
@@ -122,6 +122,8 @@ key_key.hotbar.9:key.keyboard.9
 key_key.dynamicfps.toggle_forced:key.keyboard.unknown
 key_key.dynamicfps.toggle_disabled:key.keyboard.unknown
 key_key.fabrishot.screenshot:key.keyboard.f9
+key_Reload Menu | CTRL + ALT + :key.keyboard.r
+key_Toggle Customization Overlay | CTRL + ALT + :key.keyboard.c
 key_key.advancedcompass.openconfig:key.keyboard.backspace
 key_key.advancedcompass.newwaypoint:key.keyboard.backspace
 key_key.advancedcompass.openwaypointlist:key.keyboard.backspace
@@ -153,6 +155,8 @@ key_key.inventoryhud.toggleall:key.keyboard.unknown
 key_key.jade.config:key.keyboard.keypad.0
 key_key.jade.show_overlay:key.keyboard.keypad.1
 key_key.jade.toggle_liquid:key.keyboard.keypad.2
+key_key.jade.show_recipes:key.keyboard.keypad.3
+key_key.jade.show_uses:key.keyboard.keypad.4
 key_key.jade.narrate:key.keyboard.keypad.5
 key_key.jade.show_details_alternative:key.keyboard.unknown
 key_key.journeymap.zoom_in:key.keyboard.equal
@@ -192,7 +196,7 @@ key_iris.keybind.reload:key.keyboard.backspace
 key_iris.keybind.toggleShaders:key.keyboard.backspace
 key_iris.keybind.shaderPackSelection:key.keyboard.backspace
 soundCategory_master:1.0
-soundCategory_music:1.0
+soundCategory_music:0.5
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0

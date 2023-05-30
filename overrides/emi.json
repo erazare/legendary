@@ -1,9 +1,69 @@
 {
-  "favorites": [],
+  "favorites": [
+    {
+      "stack": {
+        "item": "minecraft:written_book",
+        "amount": 1,
+        "nbt": "{CustomModelData:410001,author:\"The Jailor\",display:{Lore:[\u0027{\"italic\":false,\"color\":\"gray\",\"translate\":\"item.essrpg.common.imbuer.lore.0\"}\u0027,\u0027{\"bold\":true,\"color\":\"dark_gray\",\"translate\":\"item.essrpg.common.imbuer.lore.1\"}\u0027],Name:\u0027{\"italic\":false,\"translate\":\"item.essrpg.common.imbuer\"}\u0027},esitem:\"imbuer\",generation:3,pages:[\u0027[{translate:imb.essrpg.p1.1},    \n\n{translate:imb.essrpg.p1.2,color:red,bold:true,hoverEvent:{action:show_text,contents:[{translate:imb.essrpg.str.0}, {translate:imb.essrpg.ep.1},{translate:imb.essrpg.str.1}, {translate:imb.essrpg.ep.2},{translate:imb.essrpg.str.2}, {translate:imb.essrpg.ep.3},{translate:imb.essrpg.str.3}, {translate:imb.essrpg.ep.4},{translate:imb.essrpg.str.4}, {translate:imb.essrpg.ep.5},{translate:imb.essrpg.str.5}, {translate:imb.essrpg.ep.6},{translate:imb.essrpg.str.6,with:[{translate:imb.essrpg.str.cleave,bold:true,color:red}]}, {translate:imb.essrpg.str.7,with:[{translate:imb.essrpg.str.cleave,bold:true,color:red}]}]}, clickEvent:{action:run_command,value:\"/trigger es.epbuy set 1\"}},    \n\n{translate:imb.essrpg.p1.3,color:red,bold:true,hoverEvent:{action:show_text,contents:[{translate:imb.essrpg.foc.0}, {translate:imb.essrpg.ep.1},{translate:imb.essrpg.foc.1}, {translate:imb.essrpg.ep.2},{translate:imb.essrpg.foc.2}, {translate:imb.essrpg.ep.3},{translate:imb.essrpg.foc.3}, {translate:imb.essrpg.ep.4},{translate:imb.essrpg.foc.4}, {translate:imb.essrpg.ep.5},{translate:imb.essrpg.foc.5}, {translate:imb.essrpg.ep.6},{translate:imb.essrpg.foc.6,with:[{translate:imb.essrpg.foc.flask,bold:true,color:red}]}, {translate:imb.essrpg.foc.7,with:[{translate:imb.essrpg.foc.flask,bold:true,color:red}]}]}, clickEvent:{action:run_command,value:\"/trigger es.epbuy set 2\"}},    \n\n{translate:imb.essrpg.p1.4,color:red,bold:true,hoverEvent:{action:show_text,contents:[{translate:imb.essrpg.tru.0}, {translate:imb.essrpg.ep.1},{translate:imb.essrpg.tru.1}, {translate:imb.essrpg.ep.2},{translate:imb.essrpg.tru.2}, {translate:imb.essrpg.ep.3},{translate:imb.essrpg.tru.3}, {translate:imb.essrpg.ep.4},{translate:imb.essrpg.tru.4}, {translate:imb.essrpg.ep.5},{translate:imb.essrpg.tru.5}, {translate:imb.essrpg.ep.6},{translate:imb.essrpg.tru.6,with:[{translate:imb.essrpg.tru.stop,bold:true,color:red}]}, {translate:imb.essrpg.tru.7,with:[{translate:imb.essrpg.tru.stop,bold:true,color:red}]}]}, clickEvent:{action:run_command,value:\"/trigger es.epbuy set 3\"}},    \n\n{translate:imb.essrpg.p1.5,color:blue,bold:true,hoverEvent:{action:show_text,contents:[{translate:imb.essrpg.hp.0}, {translate:imb.essrpg.ep.1},{translate:imb.essrpg.hp.1}, {translate:imb.essrpg.ep.2},{translate:imb.essrpg.hp.2}, {translate:imb.essrpg.ep.3},{translate:imb.essrpg.hp.3}, {translate:imb.essrpg.ep.4},{translate:imb.essrpg.hp.4}, {translate:imb.essrpg.ep.5},{translate:imb.essrpg.hp.5}, {translate:imb.essrpg.ep.6},{translate:imb.essrpg.hp.6,with:[{translate:imb.essrpg.hp.iron,bold:true,color:blue}]}, {translate:imb.essrpg.hp.7,with:[{translate:imb.essrpg.hp.iron,bold:true,color:blue}]}]}, clickEvent:{action:run_command,value:\"/trigger es.epbuy set 4\"}},    \n\n{translate:imb.essrpg.p1.6,color:blue,bold:true,hoverEvent:{action:show_text,contents:[{translate:imb.essrpg.reg.0}, {translate:imb.essrpg.ep.1},{translate:imb.essrpg.reg.1}, {translate:imb.essrpg.ep.2},{translate:imb.essrpg.reg.2,with:[{translate:imb.essrpg.reg.ws,bold:true,color:blue}]}, {translate:imb.essrpg.ep.3},{translate:imb.essrpg.reg.3,with:[{translate:imb.essrpg.reg.ls,bold:true,color:blue}]}, {translate:imb.essrpg.ep.4},{translate:imb.essrpg.reg.4}, {translate:imb.essrpg.ep.5},{translate:imb.essrpg.reg.5}, {translate:imb.essrpg.ep.6},{translate:imb.essrpg.reg.6}, {translate:imb.essrpg.reg.7,with:[{translate:imb.essrpg.reg.ws,bold:true,color:blue}]}, {translate:imb.essrpg.reg.8,with:[{translate:imb.essrpg.reg.ls,bold:true,color:blue}]}]}, clickEvent:{action:run_command,value:\"/trigger es.epbuy set 5\"}},    \n\n{translate:imb.essrpg.p1.7,color:blue,bold:true,hoverEvent:{action:show_text,contents:[{translate:imb.essrpg.res.0}, {translate:imb.essrpg.ep.1},{translate:imb.essrpg.res.1,with:[{translate:imb.essrpg.res.soul,bold:true,color:blue}]}, {translate:imb.essrpg.ep.2},{translate:imb.essrpg.res.2}, {translate:imb.essrpg.ep.3},{translate:imb.essrpg.res.3}, {translate:imb.essrpg.ep.4},{translate:imb.essrpg.res.4}, {translate:imb.essrpg.ep.5},{translate:imb.essrpg.res.5}, {translate:imb.essrpg.ep.6},{translate:imb.essrpg.res.6,with:[{translate:imb.essrpg.res.col,bold:true,color:blue}]}, {translate:imb.essrpg.res.7,with:[{translate:imb.essrpg.res.soul,bold:true,color:blue}]}, {translate:imb.essrpg.res.8,with:[{translate:imb.essrpg.res.col,bold:true,color:blue}]}]}, clickEvent:{action:run_command,value:\"/trigger es.epbuy set 6\"}},    \n\n{translate:imb.essrpg.p1.8,color:green,bold:true,hoverEvent:{action:show_text,contents:[{translate:imb.essrpg.spd.0}, {translate:imb.essrpg.ep.1},{translate:imb.essrpg.spd.1}, {translate:imb.essrpg.ep.2},{translate:imb.essrpg.spd.2}, {translate:imb.essrpg.ep.3},{translate:imb.essrpg.spd.3,with:[{translate:imb.essrpg.spd.adre,bold:true,color:green}]}, {translate:imb.essrpg.ep.4},{translate:imb.essrpg.spd.4}, {translate:imb.essrpg.ep.5},{translate:imb.essrpg.spd.5}, {translate:imb.essrpg.ep.6},{translate:imb.essrpg.spd.6}, {translate:imb.essrpg.spd.7,with:[{translate:imb.essrpg.spd.adre,bold:true,color:green}]}]}, clickEvent:{action:run_command,value:\"/trigger es.epbuy set 7\"}},    \n\n{translate:imb.essrpg.p1.9new,color:green,bold:true,hoverEvent:{action:show_text,contents:[{translate:imb.essrpg.tec.0}, {translate:imb.essrpg.ep.1},{translate:imb.essrpg.tec.1,with:[{translate:imb.essrpg.tec.hid,bold:true,color:green}]}, {translate:imb.essrpg.ep.2},{translate:imb.essrpg.tec.2}, {translate:imb.essrpg.ep.3},{translate:imb.essrpg.tec.3}, {translate:imb.essrpg.ep.4},{translate:imb.essrpg.tec.4,with:[{translate:imb.essrpg.tec.omn,bold:true,color:green}]}, {translate:imb.essrpg.ep.5},{translate:imb.essrpg.tec.5}, {translate:imb.essrpg.ep.6},{translate:imb.essrpg.tec.6},{translate:imb.essrpg.tec.7,with:[{translate:imb.essrpg.tec.hid,bold:true,color:green}]},{translate:imb.essrpg.tec.8,with:[{translate:imb.essrpg.tec.omn,bold:true,color:green}]}]}, clickEvent:{action:run_command,value:\"/trigger es.epbuy set 8\"}},    \n\n{translate:imb.essrpg.p1.10,color:green,bold:true,hoverEvent:{action:show_text,contents:[{translate:imb.essrpg.sat.0}, {translate:imb.essrpg.ep.1},{translate:imb.essrpg.sat.1}, {translate:imb.essrpg.ep.2},{translate:imb.essrpg.sat.2}, {translate:imb.essrpg.ep.3},{translate:imb.essrpg.sat.3}, {translate:imb.essrpg.ep.4},{translate:imb.essrpg.sat.4}, {translate:imb.essrpg.ep.5},{translate:imb.essrpg.sat.5}, {translate:imb.essrpg.ep.6},{translate:imb.essrpg.sat.6}]}, clickEvent:{action:run_command,value:\"/trigger es.epbuy set 9\"}},    \n\n{text:\"\\\\n\"},    \n\n{translate:imb.essrpg.p1.11,hoverEvent:{action:show_text,contents:[{translate:imb.essrpg.epcheck.hover}]},clickEvent:{action:run_command,value:\"/trigger es.epcheck set 1\"}},    \n\n{translate:imb.essrpg.p1.12,hoverEvent:{action:show_text,contents:[{translate:imb.essrpg.imbcheck.hover}]},clickEvent:{action:run_command,value:\"/trigger es.epcheck set 2\"}},    \n\n{text:\"                                    \"},    \n\n{text:\"( i )\",hoverEvent:{action:show_text,contents:[{translate:imb.essrpg.p1info.hover}]}}]\u0027,\u0027[{translate:imb.essrpg.p2.1},    \n\n{translate:imb.essrpg.p2.2, hoverEvent:{action:show_text,contents:[{translate:imb.essrpg.p2.diff1}]}, clickEvent:{action:run_command,value:\"/trigger es.diffselect set 1\"}},    \n\n{translate:imb.essrpg.p2.3,bold:true,color:\"#FE7C7C\", hoverEvent:{action:show_text,contents:[{translate:imb.essrpg.p2.diff2}]}, clickEvent:{action:run_command,value:\"/trigger es.diffselect set 2\"},bold:true},    \n\n{translate:imb.essrpg.p2.4,bold:true,color:\"#FC5454\", hoverEvent:{action:show_text,contents:[{translate:imb.essrpg.p2.diff3}]}, clickEvent:{action:run_command,value:\"/trigger es.diffselect set 3\"},bold:true},    \n\n{translate:imb.essrpg.p2.5,bold:true,color:\"#FC3838\", hoverEvent:{action:show_text,contents:[{translate:imb.essrpg.p2.diff4}]}, clickEvent:{action:run_command,value:\"/trigger es.diffselect set 4\"},bold:true},    \n\n{translate:imb.essrpg.p2.6,bold:true,color:\"#C62424\", hoverEvent:{action:show_text,contents:[{translate:imb.essrpg.p2.diff5}]}, clickEvent:{action:run_command,value:\"/trigger es.diffselect set 5\"},bold:true},    \n\n{translate:imb.essrpg.p2.7,bold:true,color:dark_red, hoverEvent:{action:show_text,contents:[{translate:imb.essrpg.p2.diff6}]}, clickEvent:{action:run_command,value:\"/trigger es.diffselect set 6\"},bold:true},    \n\n{translate:imb.essrpg.p2.8,bold:true,color:gold, hoverEvent:{action:show_text,contents:[{translate:imb.essrpg.p2.diff7,with:[{translate:imb.essrpg.p2.diff7.ins,bold:true,color:gold}]}]}, clickEvent:{action:run_command,value:\"/trigger es.diffselect set 7\"},bold:true},    \n\n{text:\"                        \", clickEvent:{action:run_command,value:\"/trigger es.diffselect set 8\"}},    \n\n{text:\"( i )\",hoverEvent:{action:show_text,contents:[{translate:imb.essrpg.p2info.hover}]}}]]\u0027,\u0027[{translate:imb.essrpg.p3.1},    \n\n{translate:imb.essrpg.p3.2,hoverEvent:{action:show_text,contents:[{translate:imb.essrpg.p3.ins2.0,color:gold,bold:true},{translate:imb.essrpg.p3.ins2.1,color:white,bold:false}]}, clickEvent:{action:run_command,value:\"/trigger es.epcheck set 5\"}},    \n{translate:imb.essrpg.p3.3,hoverEvent:{action:show_text,contents:[{translate:imb.essrpg.p3.ins3.0}]},clickEvent:{action:run_command,value:\"/trigger es.inspect set 1\"}},    \n{translate:imb.essrpg.p3.advice,hoverEvent:{action:show_text,contents:[{translate:imb.essrpg.p3.advice.h}]},clickEvent:{action:run_command,value:\"/trigger es.advice set 1\"}},    \n\n{translate:imb.essrpg.p3.4},    \n\n{translate:imb.essrpg.p3.5},    \n\n{translate:imb.essrpg.p3.6,hoverEvent:{action:show_text,contents:[{translate:imb.essrpg.p3.ins6.0}]},clickEvent:{action:open_url,value:\"https://www.planetminecraft.com/data-pack/essence-rpg/\"}},    \n\n{translate:imb.essrpg.p3.7,hoverEvent:{action:show_text,contents:[{translate:imb.essrpg.p3.ins7.0}]},clickEvent:{action:open_url,value:\"https://discord.gg/VuW8YZa\"}}]\u0027],title:\"\"}",
+        "type": "emi:item"
+      }
+    }
+  ],
   "lookup_history": [
+    {
+      "item": "progressivearchery:copper_fused_horn_bow",
+      "amount": 1,
+      "nbt": "{Damage:0}",
+      "type": "emi:item"
+    },
+    {
+      "item": "sassot:copper_fused_fishing_rod",
+      "amount": 1,
+      "nbt": "{Damage:0}",
+      "type": "emi:item"
+    },
+    {
+      "item": "packedup:goldbackpack",
+      "amount": 1,
+      "nbt": "{\"packedup:invIndex\":0}",
+      "type": "emi:item"
+    },
+    {
+      "item": "packedup:copperbackpack",
+      "amount": 1,
+      "nbt": "{\"packedup:invIndex\":0}",
+      "type": "emi:item"
+    },
+    {
+      "item": "minecraft:blue_dye",
+      "amount": 3,
+      "nbt": "{CustomModelData:141414,display:{Name:\u0027{\"text\":\"Harmony Essence\"}\u0027},harmony:1b}",
+      "type": "emi:item"
+    },
+    {
+      "item": "minecraft:copper_ingot",
+      "amount": 31,
+      "type": "emi:item"
+    },
+    {
+      "item": "minecraft:glass",
+      "amount": 6,
+      "type": "emi:item"
+    },
     {
       "item": "packedup:basicbackpack",
       "amount": 1,
+      "nbt": "{}",
+      "type": "emi:item"
+    },
+    {
+      "item": "minecraft:leather",
+      "amount": 16,
+      "type": "emi:item"
+    },
+    {
+      "item": "mythicmetals:tin_ingot",
+      "amount": 24,
       "type": "emi:item"
     },
     {
@@ -21,11 +81,6 @@
       "item": "forgero:copper-sword",
       "amount": 1,
       "nbt": "{Damage:152}",
-      "type": "emi:item"
-    },
-    {
-      "item": "minecraft:copper_ingot",
-      "amount": 1,
       "type": "emi:item"
     },
     {
@@ -91,22 +146,39 @@
     }
   ],
   "craft_history": [
+    "minecraft:chest",
+    "minecraft:spruce_planks",
+    "minecraft:furnace",
+    "minecraft:crafting_table",
+    "packedup:gold_from_copper",
+    "minecraft:coal_block",
+    "minecraft:fletching_table",
+    "mythicmetals:armor/copper_boots",
+    "mythicmetals:armor/copper_helmet",
+    "mythicmetals:armor/copper_chestplate",
+    "packedup:copper_from_basic",
+    "packedup:basic_from_chest",
+    "minecraft:stick",
+    "regions_unexplored:eucalyptus_planks",
+    "minecraft:acacia_planks",
+    "minecraft:torch",
+    "minecraft:coal",
+    "minecraft:oak_planks",
+    "comforts:sleeping_bag_white",
+    "minecraft:jungle_planks",
+    "minecraft:jungle_door",
+    "minecraft:iron_pickaxe",
+    "minecraft:stone_pickaxe",
+    "minecraft:jungle_boat",
+    "minecraft:wooden_pickaxe",
     "regions_unexplored:blackwood_boat",
     "regions_unexplored:blackwood_planks",
-    "minecraft:crafting_table",
-    "minecraft:oak_planks",
-    "minecraft:iron_pickaxe",
-    "minecraft:torch",
     "mythicmetals:pickaxe/copper_pickaxe",
-    "minecraft:furnace",
-    "minecraft:stone_pickaxe",
     "minecraft:oak_door",
-    "minecraft:wooden_pickaxe",
     "regions_unexplored:pine_door",
     "regions_unexplored:pine_planks",
     "minecraft:wooden_axe",
-    "regions_unexplored:larch_planks",
-    "minecraft:stick"
+    "regions_unexplored:larch_planks"
   ],
   "recipe_defaults": {
     "added": [],
